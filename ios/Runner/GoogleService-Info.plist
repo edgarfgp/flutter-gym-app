@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>174938233902-g0bkpvimfdns8jtm2vc4o084hda0adgk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.174938233902-g0bkpvimfdns8jtm2vc4o084hda0adgk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBu8R3nbgTFDCyB-iSyUlhdg-0g8xLMx-0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>174938233902</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>edgar.gonzalez.gymapp</string>
+	<key>PROJECT_ID</key>
+	<string>gymapp-2c1af</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gymapp-2c1af.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:174938233902:ios:6ba46fac940e7259</string>
+	<key>DATABASE_URL</key>
+	<string>https://gymapp-2c1af.firebaseio.com</string>
+</dict>
+</plist>
