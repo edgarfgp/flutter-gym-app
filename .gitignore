@@ -4,7 +4,7 @@
 .packages
 .pub/
 .idea/
-.vscode
+.vscode/
 build/
 
 .flutter-plugins
